@@ -1,0 +1,3 @@
+# The Coding Train Challenge Implementations
+
+This is a repo for my implementations of the coding train's [Coding Challenges](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH) video series. My usual language of choice is [Clojure](https://www.clojure.org), but I'm using the challenges as a way to dip my toes into using [ClojureScript](https://www.clojurescript.org), and my branch out into other languages as well (or try to use them as a way to keep my skills up-to-snuff in languages like Java/Python). For the clojurescript projects, I'm using a project template from [Pieter Koornhof](https://github.com/SneakyPeet).
