@@ -1,6 +1,6 @@
 # menger-fractal
 
-A Quil sketch designed to ... well, that part is up to you.
+A Quil sketch designed to create a menger sponge. Code was made from following [The Coding Train's Menger Sponge Fractal video](https://youtu.be/LG8ZK-rRkXo)
 
 ## Usage
 
